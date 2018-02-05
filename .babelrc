@@ -1,0 +1,10 @@
+//演示vue也可以写jsx代码
+{
+    "presets":[
+        "env"
+    ],
+    "plugins":[
+        //帮我们转换vue里面的jsx代码
+        "transform-vue-jsx"
+    ]
+}
